@@ -1,0 +1,5 @@
+.idea
+.gitignore
+.npmrc
+node_modules
+readme.md
